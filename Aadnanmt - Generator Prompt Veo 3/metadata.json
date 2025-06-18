@@ -1,0 +1,6 @@
+{
+  "name": "Veo 3 Prompt Generator by aadnanmt",
+  "description": "A tool to generate structured and detailed prompts for Veo 3, an AI video generation model. Users can input various parameters like subject, action, camera movements, and style, then get an Indonesian prompt (editable) and a final English prompt (non-editable) translated by AI, preserving spoken dialogue.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
